@@ -7,6 +7,7 @@
 ### Links and Resources
 
 - [Code Sandbox](https://codesandbox.io/s/helloworld-h583i?file=/src/components/Header.js)
+- [Github PR](https://github.com/randee-401-advanced-javascript/lab20React/pull/1)
 
 
 ### Setup
